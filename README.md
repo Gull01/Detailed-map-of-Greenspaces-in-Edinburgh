@@ -1,17 +1,17 @@
-# 🌳 Edinburgh Greenspaces Map
+# Edinburgh Greenspaces Map
 
-## 🚀 Overview
+## Overview
 Folium and Geo Pandas. This project visualizes key geographic features of Edinburgh, Scotland ( green spaces related roads, and access points, with detailed pop-ups for each feature.)
 
-## ✨ Key Features
+## Key Features
 - **Park Highlighting**: Visualizes prominent greenspaces across Edinburgh.
 - **Contextual Information**: Displays relative access points and urban infrastructure.
 - **Geospatial Insights**: High-quality mapping output using real world datasets.
 
-## 🛠️ Built With
+## Built With
 - **Tech Stack:** Python, Folium, GeoPandas
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Ensure your local environment is configured securely (e.g. Python 3.8+ or necessary GIS software context).
@@ -27,7 +27,7 @@ Ensure your local environment is configured securely (e.g. Python 3.8+ or necess
    ```
 3. Set up your environment and dependencies as needed.
 
-## 📄 License
+## License
 This project is licensed under the MIT License - see below for details.
 
 ```text
